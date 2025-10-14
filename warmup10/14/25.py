@@ -8,3 +8,8 @@ dino_as_int = int(dino_as_bool)
 
 # Print the result to verify
 print(dino_as_int)
+
+# get input
+user_input = input("What is your favorite dinosaur? ")
+print (f"your favorite dinosaur is {user_input}")
+
