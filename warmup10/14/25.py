@@ -8,4 +8,3 @@ dino_as_int = int(dino_as_bool)
 
 # Print the result to verify
 print(dino_as_int)
-# Output: 2
